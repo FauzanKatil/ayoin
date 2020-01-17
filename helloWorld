@@ -3,6 +3,8 @@ using namespace std;
 
 int main(){
   cout<<"Hello World"<<endl;
-  cout<<"ngopi slurr"<<endl;
+  cout<<"Daleeemmmm"<<endl;
   cout<<"Daleeemmmm";
+  cout<<"Masih semangat??";
+  cout<<"AGUS WALUYO"<<endl;
 }
